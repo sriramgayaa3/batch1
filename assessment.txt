@@ -1,0 +1,59 @@
+Give me some idea on what is a Data type. What are Primitive Data types and Non-Primitive Data types. Explain with some examples.
+A data type defines the type of data that can be stored and manipulated in a programming language. It specifies:
+
+The type of value (e.g., integer, string, boolean).
+The operations that can be performed on the data.
+The memory required to store the value.
+Data types are essential because they help the compiler or interpreter understand how the programmer intends to use the data.
+
+Types of Data Types
+Data types are generally categorized into two main types:
+
+Primitive Data Types
+Non-Primitive Data Types
+1. Primitive Data Types
+Primitive data types are the most basic types of data that are predefined by the programming language. They represent single values and are directly operated upon by machine instructions.
+
+Common Primitive Data Types:
+Integer (int): Represents whole numbers.
+Example: 10, -25, 0
+Floating-point (float or double): Represents numbers with decimal points.
+Example: 3.14, -0.99
+Character (char): Represents a single character.
+Example: 'A', 'z', '9'
+Boolean (bool): Represents true or false values.
+Example: true, false
+String (string): (In some languages, this is considered primitive) Represents sequences of characters.
+Example: "Hello", "123"
+Characteristics of Primitive Data Types:
+Simple and atomic.
+Fixed size in memory (depending on the language and architecture).
+2. Non-Primitive Data Types
+Non-primitive data types are more complex and derived from primitive data types. They can store multiple values or more complex structures.
+
+Common Non-Primitive Data Types:
+Arrays: A collection of elements of the same data type.
+
+Example: [1, 2, 3, 4], ['A', 'B', 'C']
+Strings: (In some languages, considered non-primitive) A sequence of characters.
+
+Example: "OpenAI", "Data Types"
+Classes/Objects: Represent real-world entities with attributes and methods.
+
+Example: A Car class with attributes like color and speed.
+Lists (or ArrayLists): A dynamic collection of elements (e.g., Python list).
+
+Example: [10, "apple", 3.14]
+Tuples: An immutable collection of elements.
+
+Example: (1, "John", 3.5)
+Sets: A collection of unique elements.
+
+Example: {1, 2, 3}
+Dictionaries (or HashMaps): A collection of key-value pairs.
+
+Example: {"name": "Alice", "age": 25}
+Characteristics of Non-Primitive Data Types:
+Can store multiple values or more complex structures.
+More flexible and powerful.
+Often require more memory.
